@@ -1,4 +1,4 @@
-# LangChain: Summarize Text from YT or Website
+** LangChain: Summarize Text from YT or Website
 
 This project uses Streamlit and LangChain to summarize text content from YouTube videos or websites. It leverages the Groq API with the Gemma model to generate summaries.
 
