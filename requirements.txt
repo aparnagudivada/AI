@@ -16,3 +16,7 @@ langchain_groq
 validators
 youtube_transcript_api
 streamlit
+wikipedia
+unstructured
+pytube
+numexpr
